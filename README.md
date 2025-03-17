@@ -12,10 +12,10 @@
 
 **MENTOR NAME**: NEELA SANTHOSH
 
-# DESCRIPTION: This project is a responsive static portfolio website that showcases a developer’s skills, projects,and contact details. 
+# This project is a responsive static portfolio website that showcases a developer’s skills, projects,and contact details. 
 This project is a static website, meaning it doesn’t require a backend or database. It is built using HTML, CSS, and JavaScript, ensuring fast performance, easy deployment, and a responsive user experience.
 
-Project Overview
+# Project Overview
 This portfolio website is designed to highlight a developer’s:
 
 Introduction/About Me – A brief overview of their background and expertise.
@@ -24,11 +24,11 @@ Projects – A showcase of past and ongoing projects with descriptions and links
 Contact Form – Allows visitors to send messages directly.
 The goal is to provide a visually appealing and interactive platform that effectively communicates a developer’s capabilities.
 
-Technologies Used
-1. Frontend Development
+# Technologies Used
+# 1. Frontend Development
 HTML – The core structure of the website, defining sections such as header, main content, and footer.
 CSS – Used for styling and layout, ensuring an attractive and professional look.
-2. Interactivity & Functionality
+# 2. Interactivity & Functionality
 JavaScript – Adds interactive elements like form validation, animations, and smooth scrolling.
 How It Works
 Navigation & Layout
@@ -52,6 +52,5 @@ Advantages of a Static Portfolio
 ✔ Simple Maintenance – No need for complex backend management.
 ✔ Professional Branding – Helps in personal branding and networking.
 
-Resources & References
-
+# Resources
 YouTube Tutorials – Video guides on building a portfolio.
