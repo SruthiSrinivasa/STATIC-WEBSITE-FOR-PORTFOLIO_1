@@ -54,3 +54,6 @@ Advantages of a Static Portfolio
 
 # Resources
 YouTube Tutorials – Video guides on building a portfolio.
+
+# output
+![Image](https://github.com/user-attachments/assets/f929f40c-8aeb-405f-80d6-3a9dd287129f)
